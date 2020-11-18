@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T12:29:31.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="se4SbfKq_tz5FyJgibh8" version="13.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-18T13:19:10.335Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="j0YqvyO88gP5K6e82a8_" version="13.9.9" type="github" pages="2">
   <diagram id="Lqlwhai7aOwf8UodsH-K" name="Laravel">
     <mxGraphModel dx="946" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="3400" math="0" shadow="0">
       <root>
@@ -1786,11 +1786,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KMDX6ltWkDMTXIc0Mh1J-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#667EEA;" vertex="1" connectable="0" parent="KMDX6ltWkDMTXIc0Mh1J-3">
-          <mxGeometry x="0.2571" y="6" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <UserObject label="Local Development Environment" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="YWXJSZljB6OeTGfeLTc_-0">
           <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
             <mxGeometry x="570" y="255.5" width="248" height="30" as="geometry" />
@@ -2015,9 +2010,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Launch a Apache/PHP Server Container" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-2">
+        <UserObject label="Launch an Apache/PHP Server Container" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-2">
           <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;arcSize=11;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
-            <mxGeometry x="920" y="550" width="310" height="30" as="geometry" />
+            <mxGeometry x="915" y="550" width="320" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Create the Dockerfile" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-5">
