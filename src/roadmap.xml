@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T09:29:45.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="tLRSAxsHkmFG_M-5KC4x" version="13.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-18T09:58:42.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="eiJ5m8FYpFNhYfCxGThT" version="13.9.9" type="github" pages="2">
   <diagram id="Lqlwhai7aOwf8UodsH-K" name="Laravel">
     <mxGraphModel dx="946" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="3400" math="0" shadow="0">
       <root>
@@ -1771,6 +1771,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="KMDX6ltWkDMTXIc0Mh1J-1" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;strokeWidth=1;fontSize=16;fontColor=#667EEA;" edge="1" parent="YItoAsJJ7FX2MBQXpwrd-1" target="KMDX6ltWkDMTXIc0Mh1J-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="271" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="890" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Local Development Environment" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="YWXJSZljB6OeTGfeLTc_-0">
           <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
             <mxGeometry x="570" y="255.5" width="248" height="30" as="geometry" />
@@ -1974,12 +1982,17 @@
         </UserObject>
         <UserObject label="Create a Docker Network" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="y5cSVw3rKn4F0f_im6pm-6">
           <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;arcSize=11;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
-            <mxGeometry x="950" y="390" width="200" height="30" as="geometry" />
+            <mxGeometry x="940" y="370" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Launch a Redis Server Container" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="fUHWc3KtbGzRZjJTywU5-0">
           <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;arcSize=11;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
-            <mxGeometry x="920" y="490" width="260" height="30" as="geometry" />
+            <mxGeometry x="940" y="470" width="260" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Launch a MYSQL Server Container" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-0">
+          <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;arcSize=11;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
+            <mxGeometry x="915" y="570" width="270" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
