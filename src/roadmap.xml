@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T13:28:56.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="YRC0-03dXLHBQftTDWuI" version="13.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-18T13:37:06.964Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="IRCOYcIvjQ3n4lE04MhO" version="13.9.9" type="github" pages="2">
   <diagram id="Lqlwhai7aOwf8UodsH-K" name="Laravel">
     <mxGraphModel dx="946" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="3400" math="0" shadow="0">
       <root>
@@ -1723,7 +1723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T2ARoQ_r2EeSHFZWCr4Q" name="Docker">
-    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YItoAsJJ7FX2MBQXpwrd-0" />
         <mxCell id="YItoAsJJ7FX2MBQXpwrd-1" parent="YItoAsJJ7FX2MBQXpwrd-0" />
@@ -2055,6 +2055,70 @@
         <UserObject label="Verify Your Environment is Working" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-11">
           <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;arcSize=11;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
             <mxGeometry x="1115" y="630" width="270" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="KMDX6ltWkDMTXIc0Mh1J-16" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.965;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;fontSize=16;fontColor=#667EEA;" edge="1" parent="YItoAsJJ7FX2MBQXpwrd-1" source="KMDX6ltWkDMTXIc0Mh1J-14" target="KMDX6ltWkDMTXIc0Mh1J-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMDX6ltWkDMTXIc0Mh1J-14" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#FFFFFF;fontSize=16;fontColor=#667EEA;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
+          <mxGeometry x="420" y="380" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDX6ltWkDMTXIc0Mh1J-18" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.946;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;strokeWidth=1;fontSize=16;fontColor=#667EEA;exitX=0.035;exitY=0.458;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="YItoAsJJ7FX2MBQXpwrd-1" source="KMDX6ltWkDMTXIc0Mh1J-15" target="KMDX6ltWkDMTXIc0Mh1J-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMDX6ltWkDMTXIc0Mh1J-22" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.963;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;strokeWidth=1;fontSize=16;fontColor=#667EEA;" edge="1" parent="YItoAsJJ7FX2MBQXpwrd-1" target="KMDX6ltWkDMTXIc0Mh1J-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="405" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMDX6ltWkDMTXIc0Mh1J-23" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.962;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;strokeWidth=1;fontSize=16;fontColor=#667EEA;exitX=0.035;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="YItoAsJJ7FX2MBQXpwrd-1" source="KMDX6ltWkDMTXIc0Mh1J-15" target="KMDX6ltWkDMTXIc0Mh1J-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMDX6ltWkDMTXIc0Mh1J-24" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.972;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;strokeWidth=1;fontSize=16;fontColor=#667EEA;exitX=0.044;exitY=0.542;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="YItoAsJJ7FX2MBQXpwrd-1" source="KMDX6ltWkDMTXIc0Mh1J-15" target="KMDX6ltWkDMTXIc0Mh1J-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Useful Docker Commands" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-15">
+          <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
+            <mxGeometry x="120" y="390" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="View all images" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-17">
+          <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
+            <mxGeometry x="-100" y="310" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Delete orphaned image artifacts" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-19">
+          <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
+            <mxGeometry x="-220" y="370" width="250" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Remove Docker images" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-20">
+          <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
+            <mxGeometry x="-200" y="430" width="190" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Bash into a running container" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="KMDX6ltWkDMTXIc0Mh1J-21">
+          <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
+            <mxGeometry x="-210" y="480" width="230" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
