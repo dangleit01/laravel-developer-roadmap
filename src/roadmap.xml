@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T09:14:40.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="xSJOYOYJueqaN-tpNp3x" version="13.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-18T09:16:07.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="li8YcWqDOdriszN47qiI" version="13.9.9" type="github" pages="2">
   <diagram id="Lqlwhai7aOwf8UodsH-K" name="Laravel">
     <mxGraphModel dx="946" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="3400" math="0" shadow="0">
       <root>
@@ -1916,7 +1916,12 @@
         </UserObject>
         <UserObject label="Create a Redis config file" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="d-7Y2rJbzRi2RyW3l9O9-11">
           <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;arcSize=11;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
-            <mxGeometry x="1235" y="270" width="200" height="30" as="geometry" />
+            <mxGeometry x="1230" y="270" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Create a MYSQL config file" link="https://medium.com/better-programming/php-how-to-run-your-entire-development-environment-in-docker-containers-on-macos-787784e94f9a" id="y5cSVw3rKn4F0f_im6pm-0">
+          <mxCell style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;perimeterSpacing=9;spacingTop=4;spacingBottom=3;labelBackgroundColor=none;labelBorderColor=none;spacing=0;horizontal=1;fillColor=#5A67D8;spacingLeft=4;spacingRight=4;html=1;fontSize=16;strokeColor=#4C51BF;rounded=1;shadow=0;comic=0;glass=0;fontColor=#FFFFFF;arcSize=11;" vertex="1" parent="YItoAsJJ7FX2MBQXpwrd-1">
+            <mxGeometry x="1220" y="340" width="220" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
